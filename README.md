@@ -1,2 +1,7 @@
 # ProfHire-landingpage
-ProfHire Landing Page 
+
+## Todo
+
+* Pull down logos 
+* Edit logos 
+
